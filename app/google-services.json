@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "987323490416",
+    "project_id": "ciyademo13-12",
+    "storage_bucket": "ciyademo13-12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987323490416:android:50264e306f24ed711414b5",
+        "android_client_info": {
+          "package_name": "com.example.ciyashop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987323490416-0n6bhedlj6lsq9gakh2sospmd5q2la7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ciyashop",
+            "certificate_hash": "5744ffc9598af8c08a67147108288fe83541ed25"
+          }
+        },
+        {
+          "client_id": "987323490416-mklmm2l1ldk70o9p8jklnsu3ps7pd8ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ8wHuhiJ0lklizND9nNwH501-LaWf5SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987323490416-mklmm2l1ldk70o9p8jklnsu3ps7pd8ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
